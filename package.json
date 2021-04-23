@@ -1,0 +1,16 @@
+{
+  "name": "regex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "mocha": "^8.3.2",
+    "ohm-js": "^15.5.0"
+  }
+}
